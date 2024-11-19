@@ -16,6 +16,6 @@ vendor/
 
 /bin/
 
-.log
+*.log
 
 
